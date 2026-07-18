@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sebyastien.github.io/budo-karate-pontoise/sitemap.xml
